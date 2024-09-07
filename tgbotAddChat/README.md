@@ -51,9 +51,11 @@ python bot.py
 
 ### Примечание
 В коде измените ссылку:
-
-вместо  
-    
+```
+panel = InlineKeyboardMarkup(inline_keyboard=[[InlineKeyboardButton(text='Добавить в свой чат', url= 'https://t.me/YOUR_bot?startgroup=YOUR&admin=change_info+restrict_members+delete_messages+pin_messages+invite_users')]])
+  
+```
+Вместо https://t.me/YOUR_bot? YOUR_bot укажите своего бота, также и в startgroup=YOUR&admin 
 ## Использование
 
 ### Основные команды
