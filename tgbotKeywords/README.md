@@ -45,22 +45,23 @@
   ``` 
 git clone https://github.com/AngelinaBackend/bots.git
 
+ cd tgbotKeywords
 ```
    
 2. Установите необходимые пакеты:
 ```
-     pip install aiogram
+pip install aiogram
 ```
    
 3. Настройте конфигурацию:
 
 Создайте файл config.py в корневом каталоге проекта и добавьте токен вашего бота:
 ```
-         token = 'YOUR_BOT_TOKEN'
+token = 'YOUR_BOT_TOKEN'
 ```
 4. Запустите бота:
 ```
-     python bot.py
+python bot.py
 ```
    
 ## Логирование
