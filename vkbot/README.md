@@ -30,7 +30,7 @@
 Следуйте этим шагам для установки и запуска бота:
 
 1. Клонируйте репозиторий:
-```
+  ```
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
    
