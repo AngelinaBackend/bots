@@ -36,7 +36,7 @@ Bash
 
     ```bash
    git clone https://github.com/AngelinaBackend/bots.git
-   cd tgbotperiodic
+   cd tgbotperiodic```
    
 2. Установите необходимые зависимости:
 
