@@ -28,7 +28,7 @@
   ``` 
 git clone https://github.com/AngelinaBackend/bots.git
 
-cd vkbot
+cd tgbotperiodic
 ```
    
 2. Установите необходимые зависимости:
