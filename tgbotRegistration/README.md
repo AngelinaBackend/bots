@@ -41,7 +41,7 @@ token = 'YOUR_BOT_TOKEN'
 ```
 4. Запустите бота:
 ```
-     python bot.py
+python bot.py
 ```
     
 ## Использование
