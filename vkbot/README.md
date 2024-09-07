@@ -69,7 +69,7 @@
  ``` 
 git clone https://github.com/AngelinaBackend/bots.git
 
-cd tgbotAdmin
+cd vkbot
 ```
  
 2. Установите необходимые пакеты:
