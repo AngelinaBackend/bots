@@ -21,25 +21,25 @@
 
 1. Клонируйте репозиторий:
 ```
-  git clone https://github.com/AngelinaBackend/bots.git
+git clone https://github.com/AngelinaBackend/bots.git
 
-  cd whatsapp
+cd whatsapp
 ```
 2. Установите необходимые пакеты:
 ```
-     pip install whatsapp_chatbot_python
+pip install whatsapp_chatbot_python
 ```   
 3. Настройте конфигурацию:
 
    - Создайте файл c.py в корневой директории проекта и добавьте в него следующие параметры:
 ```
-   api_key = 'ВАШ_API_KEY'
-   api_idInstance = 'ВАШ_API_ID_INSTANCE'
+api_key = 'ВАШ_API_KEY'
+api_idInstance = 'ВАШ_API_ID_INSTANCE'
 
  ```  
 4. Запустите бота:
 ```
-     python bot.py
+python bot.py
  ```
 ## Логирование
 
